@@ -111,7 +111,7 @@
 		"passport-jwt": "^4.0.0",
 		"passport-local": "^1.0.0",
 		"passport-url": "^1.0.4",
-		"pm2": "^3.2.9",
+		"pm2": "^3.4.0",
 		"reflect-metadata": "^0.1.13",
 		"request": "^2.88.0",
 		"request-ip": "^2.1.3",
